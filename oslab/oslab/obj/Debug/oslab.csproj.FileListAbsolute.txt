@@ -1,0 +1,35 @@
+c:\users\7500.gc\documents\visual studio 2012\Projects\oslab\oslab\bin\Debug\oslab.exe.config
+C:\Users\7500.GC\Documents\Visual Studio 2012\Projects\oslab\oslab\bin\Debug\oslab.exe
+C:\Users\7500.GC\Documents\Visual Studio 2012\Projects\oslab\oslab\bin\Debug\oslab.pdb
+C:\Users\7500.GC\Documents\Visual Studio 2012\Projects\oslab\oslab\obj\Debug\oslab.Form1.resources
+C:\Users\7500.GC\Documents\Visual Studio 2012\Projects\oslab\oslab\obj\Debug\oslab.Properties.Resources.resources
+C:\Users\7500.GC\Documents\Visual Studio 2012\Projects\oslab\oslab\obj\Debug\oslab.csproj.GenerateResource.Cache
+C:\Users\7500.GC\Documents\Visual Studio 2012\Projects\oslab\oslab\obj\Debug\oslab.exe
+C:\Users\7500.GC\Documents\Visual Studio 2012\Projects\oslab\oslab\obj\Debug\oslab.pdb
+C:\Users\RKLA\Downloads\oslab\oslab\bin\Debug\oslab.exe.config
+C:\Users\RKLA\Downloads\oslab\oslab\obj\Debug\oslab.exe
+C:\Users\RKLA\Downloads\oslab\oslab\obj\Debug\oslab.pdb
+C:\Users\RKLA\Downloads\oslab\oslab\bin\Debug\oslab.exe
+C:\Users\RKLA\Downloads\oslab\oslab\bin\Debug\oslab.pdb
+C:\Users\RKLA\Downloads\oslab\oslab\obj\Debug\oslab.csprojResolveAssemblyReference.cache
+C:\Users\RKLA\Downloads\oslab\oslab\obj\Debug\oslab.Form1.resources
+C:\Users\RKLA\Downloads\oslab\oslab\obj\Debug\oslab.Properties.Resources.resources
+C:\Users\RKLA\Downloads\oslab\oslab\obj\Debug\oslab.csproj.GenerateResource.Cache
+C:\Users\HP PC\Desktop\oslab\oslab\bin\Debug\oslab.exe.config
+C:\Users\HP PC\Desktop\oslab\oslab\obj\Debug\oslab.exe
+C:\Users\HP PC\Desktop\oslab\oslab\obj\Debug\oslab.pdb
+C:\Users\HP PC\Desktop\oslab\oslab\bin\Debug\oslab.exe
+C:\Users\HP PC\Desktop\oslab\oslab\bin\Debug\oslab.pdb
+C:\Users\HP PC\Desktop\oslab\oslab\obj\Debug\oslab.csprojResolveAssemblyReference.cache
+C:\Users\HP PC\Desktop\oslab\oslab\obj\Debug\oslab.Form1.resources
+C:\Users\HP PC\Desktop\oslab\oslab\obj\Debug\oslab.Properties.Resources.resources
+C:\Users\HP PC\Desktop\oslab\oslab\obj\Debug\oslab.csproj.GenerateResource.Cache
+C:\Users\HP PC\Desktop\osprojfinallab\oslab\oslab\bin\Debug\oslab.exe.config
+C:\Users\HP PC\Desktop\osprojfinallab\oslab\oslab\obj\Debug\oslab.exe
+C:\Users\HP PC\Desktop\osprojfinallab\oslab\oslab\obj\Debug\oslab.pdb
+C:\Users\HP PC\Desktop\osprojfinallab\oslab\oslab\bin\Debug\oslab.exe
+C:\Users\HP PC\Desktop\osprojfinallab\oslab\oslab\bin\Debug\oslab.pdb
+C:\Users\HP PC\Desktop\osprojfinallab\oslab\oslab\obj\Debug\oslab.csprojResolveAssemblyReference.cache
+C:\Users\HP PC\Desktop\osprojfinallab\oslab\oslab\obj\Debug\oslab.Form1.resources
+C:\Users\HP PC\Desktop\osprojfinallab\oslab\oslab\obj\Debug\oslab.Properties.Resources.resources
+C:\Users\HP PC\Desktop\osprojfinallab\oslab\oslab\obj\Debug\oslab.csproj.GenerateResource.Cache
